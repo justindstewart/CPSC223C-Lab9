@@ -1,3 +1,6 @@
+/* 
+Programmed by: Justin Stewart (scubastew@csu.fullerton.edu)
+*/
 
 #ifndef _CAR_H
 #define _CAR_H
